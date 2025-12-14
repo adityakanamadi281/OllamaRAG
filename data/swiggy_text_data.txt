@@ -1,0 +1,101 @@
+Order ID,Customer ID,Platform,OrderDateTime,Delivery time,Product Category,Order value,Customer Feedback,Service Rating,Delivery Delay,Refund Requested
+ORD012543,CUST9886,Swiggy Instamart,36:29.5,27,Beverages,362,Very satisfied with the service.,5,No,No
+ORD027681,CUST3840,Swiggy Instamart,12:29.5,25,Fruits & Vegetables,298,"Not fresh, disappointed.",2,No,Yes
+ORD006574,CUST4622,Swiggy Instamart,48:29.5,27,Beverages,901,"Very late delivery, not happy.",2,No,Yes
+ORD049264,CUST5013,Swiggy Instamart,08:29.5,32,Fruits & Vegetables,208,"Not fresh, disappointed.",2,No,Yes
+ORD016372,CUST2897,Swiggy Instamart,27:29.5,38,Fruits & Vegetables,375,"Horrible experience, never ordering again.",1,No,Yes
+ORD055028,CUST5079,Swiggy Instamart,57:29.5,19,Beverages,498,Excellent experience!,5,No,No
+ORD020076,CUST9631,Swiggy Instamart,10:29.5,31,Snacks,222,Items missing from order.,2,No,Yes
+ORD078966,CUST7104,Swiggy Instamart,09:29.5,26,Dairy,350,Items missing from order.,2,No,Yes
+ORD034035,CUST1039,Swiggy Instamart,21:29.5,21,Personal Care,1816,Packaging could be better.,3,No,No
+ORD079762,CUST3910,Swiggy Instamart,58:29.5,20,Snacks,176,"Horrible experience, never ordering again.",1,No,Yes
+ORD034657,CUST4487,Swiggy Instamart,36:29.5,23,Personal Care,1680,Good quality products.,4,No,No
+ORD017568,CUST5360,Swiggy Instamart,15:29.5,25,Snacks,250,Very satisfied with the service.,5,No,No
+ORD062826,CUST4519,Swiggy Instamart,47:29.5,25,Snacks,339,Wrong item delivered.,1,No,Yes
+ORD093170,CUST1393,Swiggy Instamart,12:29.5,27,Grocery,864,"Very late delivery, not happy.",2,No,Yes
+ORD002773,CUST3161,Swiggy Instamart,58:29.5,16,Fruits & Vegetables,139,Quick and reliable!,5,No,No
+ORD065236,CUST9208,Swiggy Instamart,35:29.5,39,Dairy,612,"Easy to order, loved it!",5,No,No
+ORD083602,CUST1408,Swiggy Instamart,50:29.5,29,Grocery,1174,Very satisfied with the service.,5,No,No
+ORD096502,CUST7495,Swiggy Instamart,16:29.5,36,Snacks,81,"Horrible experience, never ordering again.",1,No,Yes
+ORD087588,CUST3206,Swiggy Instamart,36:29.5,11,Dairy,636,Delivery person was rude.,2,No,Yes
+ORD078179,CUST4097,Swiggy Instamart,10:29.5,16,Grocery,1240,"Very late delivery, not happy.",2,No,Yes
+ORD080797,CUST9508,Swiggy Instamart,31:29.5,45,Dairy,173,"Fast delivery, great service!",5,Yes,No
+ORD002960,CUST7870,Swiggy Instamart,29:29.5,53,Personal Care,856,"Easy to order, loved it!",5,Yes,No
+ORD055214,CUST5922,Swiggy Instamart,27:29.5,25,Fruits & Vegetables,105,Very satisfied with the service.,5,No,No
+ORD069059,CUST2600,Swiggy Instamart,23:29.5,36,Dairy,752,"Easy to order, loved it!",5,No,No
+ORD076632,CUST6364,Swiggy Instamart,26:29.5,25,Dairy,442,Items missing from order.,2,No,Yes
+ORD014936,CUST7249,Swiggy Instamart,27:29.5,22,Dairy,774,Items missing from order.,2,No,Yes
+ORD012607,CUST4144,Swiggy Instamart,02:29.5,31,Dairy,290,Excellent experience!,5,No,No
+ORD066272,CUST5161,Swiggy Instamart,06:29.5,40,Personal Care,1460,"Very late delivery, not happy.",2,No,Yes
+ORD021711,CUST4471,Swiggy Instamart,31:29.5,63,Fruits & Vegetables,242,Excellent experience!,5,Yes,No
+ORD066703,CUST8714,Swiggy Instamart,53:29.5,25,Beverages,821,"Fast delivery, great service!",5,No,No
+ORD082367,CUST6058,Swiggy Instamart,12:29.5,22,Dairy,564,Quick and reliable!,5,No,No
+ORD028812,CUST5132,Swiggy Instamart,21:29.5,30,Beverages,314,"Very late delivery, not happy.",2,No,Yes
+ORD018016,CUST4810,Swiggy Instamart,33:29.5,29,Fruits & Vegetables,326,Packaging could be better.,3,No,No
+ORD075139,CUST4749,Swiggy Instamart,25:29.5,37,Personal Care,603,Wrong item delivered.,1,No,Yes
+ORD063642,CUST1042,Swiggy Instamart,56:29.5,28,Dairy,113,Wrong item delivered.,1,No,Yes
+ORD041145,CUST3214,Swiggy Instamart,49:29.5,25,Personal Care,741,Very satisfied with the service.,5,No,No
+ORD084736,CUST8761,Swiggy Instamart,30:29.5,17,Dairy,543,Good quality products.,4,No,No
+ORD076144,CUST9372,Swiggy Instamart,59:29.5,35,Beverages,659,Packaging could be better.,3,No,No
+ORD090750,CUST2711,Swiggy Instamart,52:29.5,27,Snacks,295,"Very late delivery, not happy.",2,No,Yes
+ORD050102,CUST5308,Swiggy Instamart,49:29.5,48,Fruits & Vegetables,78,Excellent experience!,5,Yes,No
+ORD060699,CUST4102,Swiggy Instamart,00:29.5,39,Personal Care,986,Excellent experience!,5,No,No
+ORD044323,CUST5916,Swiggy Instamart,37:29.5,24,Snacks,203,Items missing from order.,2,No,Yes
+ORD060473,CUST4791,Swiggy Instamart,13:29.5,30,Snacks,241,"Very late delivery, not happy.",2,No,Yes
+ORD071354,CUST6595,Swiggy Instamart,20:29.5,28,Dairy,741,"Easy to order, loved it!",5,No,No
+ORD057516,CUST5805,Swiggy Instamart,40:29.5,41,Beverages,761,"Horrible experience, never ordering again.",1,Yes,Yes
+ORD035297,CUST2075,Swiggy Instamart,05:29.5,14,Dairy,256,"Easy to order, loved it!",5,No,No
+ORD008768,CUST1685,Swiggy Instamart,07:29.5,36,Beverages,503,"Horrible experience, never ordering again.",1,No,Yes
+ORD020738,CUST6623,Swiggy Instamart,57:29.5,32,Snacks,157,Good quality products.,4,No,No
+ORD091805,CUST5823,Swiggy Instamart,29:29.5,34,Snacks,415,"Very late delivery, not happy.",2,No,Yes
+ORD037779,CUST3216,Swiggy Instamart,41:29.5,38,Beverages,619,"Horrible experience, never ordering again.",1,No,Yes
+ORD086596,CUST5115,Swiggy Instamart,27:29.5,38,Snacks,169,Excellent experience!,5,No,No
+ORD046410,CUST5091,Swiggy Instamart,14:29.5,34,Snacks,451,"Easy to order, loved it!",5,No,No
+ORD069292,CUST9077,Swiggy Instamart,56:29.5,34,Personal Care,1610,Quick and reliable!,5,No,No
+ORD009289,CUST4251,Swiggy Instamart,17:29.5,35,Personal Care,313,Items missing from order.,2,No,Yes
+ORD071384,CUST6770,Swiggy Instamart,55:29.5,35,Snacks,490,Quick and reliable!,5,No,No
+ORD001800,CUST6123,Swiggy Instamart,43:29.5,31,Grocery,989,Items missing from order.,2,No,Yes
+ORD059247,CUST5891,Swiggy Instamart,37:29.5,7,Dairy,501,Excellent experience!,5,No,No
+ORD023256,CUST8868,Swiggy Instamart,49:29.5,26,Personal Care,1528,Quick and reliable!,5,No,No
+ORD008608,CUST3890,Swiggy Instamart,17:29.5,20,Dairy,420,Very satisfied with the service.,5,No,No
+ORD062048,CUST3494,Swiggy Instamart,02:29.5,26,Dairy,497,"Very late delivery, not happy.",2,No,Yes
+ORD010467,CUST7267,Swiggy Instamart,14:29.5,40,Dairy,472,Delivery person was rude.,2,No,Yes
+ORD063139,CUST7024,Swiggy Instamart,23:29.5,37,Snacks,66,Excellent experience!,5,No,No
+ORD089430,CUST4363,Swiggy Instamart,16:29.5,58,Beverages,421,Very satisfied with the service.,5,Yes,No
+ORD087826,CUST8971,Swiggy Instamart,11:29.5,37,Dairy,551,"Very late delivery, not happy.",2,No,Yes
+ORD021652,CUST5698,Swiggy Instamart,45:29.5,44,Snacks,329,Wrong item delivered.,1,Yes,Yes
+ORD029606,CUST1912,Swiggy Instamart,52:29.5,66,Personal Care,218,Excellent experience!,5,Yes,No
+ORD053376,CUST3307,Swiggy Instamart,28:29.5,33,Dairy,785,Items missing from order.,2,No,Yes
+ORD015708,CUST3019,Swiggy Instamart,33:29.5,23,Beverages,355,Delivery person was rude.,2,No,Yes
+ORD070606,CUST5203,Swiggy Instamart,49:29.5,29,Snacks,199,"Fast delivery, great service!",5,No,No
+ORD002662,CUST2354,Swiggy Instamart,50:29.5,31,Fruits & Vegetables,399,Items missing from order.,2,No,Yes
+ORD097982,CUST1613,Swiggy Instamart,18:29.5,20,Snacks,199,"Horrible experience, never ordering again.",1,No,Yes
+ORD097716,CUST6799,Swiggy Instamart,35:29.5,26,Personal Care,1086,"Not fresh, disappointed.",2,No,Yes
+ORD097723,CUST2750,Swiggy Instamart,24:29.5,32,Personal Care,238,"Not fresh, disappointed.",2,No,Yes
+ORD036022,CUST6155,Swiggy Instamart,26:29.5,25,Fruits & Vegetables,634,"Horrible experience, never ordering again.",1,No,Yes
+ORD076902,CUST9137,Swiggy Instamart,15:29.5,23,Dairy,503,Quick and reliable!,5,No,No
+ORD055600,CUST7259,Swiggy Instamart,17:29.5,23,Personal Care,1882,"Not fresh, disappointed.",2,No,Yes
+ORD036527,CUST6530,Swiggy Instamart,38:29.5,29,Dairy,122,"Easy to order, loved it!",5,No,No
+ORD071901,CUST4719,Swiggy Instamart,19:29.5,26,Beverages,322,"Easy to order, loved it!",5,No,No
+ORD036405,CUST2915,Swiggy Instamart,34:29.5,42,Personal Care,1920,"Not fresh, disappointed.",2,Yes,Yes
+ORD004048,CUST2572,Swiggy Instamart,02:29.5,22,Beverages,762,"Easy to order, loved it!",5,No,No
+ORD066495,CUST5398,Swiggy Instamart,55:29.5,29,Grocery,1466,Very satisfied with the service.,5,No,No
+ORD054639,CUST5338,Swiggy Instamart,04:29.5,18,Personal Care,1566,Good quality products.,4,No,No
+ORD047113,CUST6154,Swiggy Instamart,32:29.5,16,Personal Care,1099,"Fast delivery, great service!",5,No,No
+ORD077265,CUST8229,Swiggy Instamart,51:29.5,49,Grocery,615,Quick and reliable!,5,Yes,No
+ORD031924,CUST7946,Swiggy Instamart,48:29.5,26,Beverages,690,Excellent experience!,5,No,No
+ORD051092,CUST6543,Swiggy Instamart,09:29.5,35,Fruits & Vegetables,212,Very satisfied with the service.,5,No,No
+ORD002064,CUST9998,Swiggy Instamart,10:29.5,29,Personal Care,438,Wrong item delivered.,1,No,Yes
+ORD017575,CUST4455,Swiggy Instamart,54:29.5,15,Snacks,479,"Fast delivery, great service!",5,No,No
+ORD078702,CUST6606,Swiggy Instamart,33:29.5,34,Dairy,126,Wrong item delivered.,1,No,Yes
+ORD049687,CUST8666,Swiggy Instamart,52:29.5,18,Snacks,173,"Very late delivery, not happy.",2,No,Yes
+ORD091985,CUST8694,Swiggy Instamart,25:29.5,9,Beverages,168,Very satisfied with the service.,5,No,No
+ORD000619,CUST3885,Swiggy Instamart,28:29.5,26,Grocery,1384,Very satisfied with the service.,5,No,No
+ORD088385,CUST5335,Swiggy Instamart,19:29.5,35,Beverages,528,Excellent experience!,5,No,No
+ORD029604,CUST6362,Swiggy Instamart,55:29.5,35,Beverages,514,Packaging could be better.,3,No,No
+ORD088181,CUST8745,Swiggy Instamart,59:29.5,23,Fruits & Vegetables,445,Delivery person was rude.,2,No,Yes
+ORD027754,CUST5096,Swiggy Instamart,13:29.5,16,Grocery,1141,Good quality products.,4,No,No
+ORD095666,CUST2276,Swiggy Instamart,06:29.5,36,Snacks,419,"Easy to order, loved it!",5,No,No
+ORD086946,CUST1033,Swiggy Instamart,31:29.5,31,Personal Care,1187,Items missing from order.,2,No,Yes
+ORD001747,CUST3804,Swiggy Instamart,13:29.5,28,Beverages,341,Delivery person was rude.,2,No,Yes
+ORD018025,CUST5169,Swiggy Instamart,04:29.5,36,Personal Care,352,"Horrible experience, never ordering again.",1,No,Yes
